@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
 int smallest(int[],int);
 int largest(int[],int);
 int sum(int[],int);
